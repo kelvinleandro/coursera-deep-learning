@@ -6,7 +6,7 @@ Solved programming assignments from [Coursera Deep Learning specialization](http
 
 1. [Neural Networks and Deep Learning](./course-01-neural-networks-deep-learning/)
 
-2. Improving Deep Neural Networks
+2. [Improving Deep Neural Networks](./course-02-improving-dnn/)
 
 3. Structuring Machine Learning Projects
 
