@@ -10,6 +10,6 @@ Solved programming assignments from [Coursera Deep Learning specialization](http
 
 3. Structuring Machine Learning Projects
 
-4. Convolutional Neural Networks
+4. [Convolutional Neural Networks](./course-04-convolutional-neural-networks/)
 
 5. Sequence Models
