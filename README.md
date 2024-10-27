@@ -12,4 +12,4 @@ Solved programming assignments from [Coursera Deep Learning specialization](http
 
 4. [Convolutional Neural Networks](./course-04-convolutional-neural-networks/)
 
-5. Sequence Models
+5. [Sequence Models](./course-05-sequence-models/)
