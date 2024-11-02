@@ -13,3 +13,7 @@ Solved programming assignments from [Coursera Deep Learning specialization](http
 4. [Convolutional Neural Networks](./course-04-convolutional-neural-networks/)
 
 5. [Sequence Models](./course-05-sequence-models/)
+
+---
+
+[![certificate](certificate.jpg)](https://www.coursera.org/account/accomplishments/specialization/TQB4P2Z1CXXO)
